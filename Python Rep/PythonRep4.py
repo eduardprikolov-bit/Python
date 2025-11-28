@@ -12,7 +12,6 @@ else:
 
     result = num
 
-
 print(result)
 
 #Задание 2.
